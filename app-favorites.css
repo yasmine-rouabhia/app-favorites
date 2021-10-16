@@ -1,0 +1,92 @@
+h1{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+.haut{
+    display: flex;
+    justify-content: center;
+    border: double, 5px, rgb(228, 168, 79); 
+
+}
+.ensemble{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    gap: 15px;
+    align-items: center;
+    
+}
+
+.Netflix, .Deezer, .Insta{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+    font-family: system-ui;
+
+}
+
+h5{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace
+
+}
+
+h4{
+    text-align: center;
+
+}
+
+.Netflix{
+    display:flex;
+    flex-direction:column;
+    border:5px red solid;
+}
+
+.Deezer{
+    display:flex;
+    flex-direction:column;
+    border:5px palegreen solid;
+}
+
+.Insta{
+    display:flex;
+    flex-direction:column;
+    border:5px hotpink solid;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+mark{
+    background-color: red;
+    color: white;
+}
+
+
+.bouton{
+    background-color: rgb(228, 168, 79);
+}
+
+em{
+    color: red;
+   
+}
+
+.Lien3{
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(228, 168, 79);
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: Gill Sans",sans-serif";
+
+
+}

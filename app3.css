@@ -1,0 +1,60 @@
+.bandehaut{
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    flex-direction: row;
+    background-color: white;
+    flex-wrap: nowrap, 300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.stick1{
+    display: flex;
+    flex-basis: auto;
+    background-color: white;
+    }
+ 
+.texte{
+    display: flex;;
+    flex-direction: column;
+    align-content: center;
+    background-color: white;
+    width: 60%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.stick2{
+    background-color: white;
+    display: flex;
+    flex-basis: auto;
+    }
+
+.instabande{
+    background-color: white;
+    color: rgb(209, 62, 135);
+    justify-content: center;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.instafoto{
+    background-image: url(instafond.jpg);
+    display: flex;
+    text-align: right;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.reseaux{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+mark{
+    background-color: rgb(209, 62, 135);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
